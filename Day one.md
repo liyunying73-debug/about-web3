@@ -25,5 +25,6 @@ linette，大三金融科技专业，希望能了解到web3的知识，拓展自
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/liyunying73-debug/images/2026-01-12-1768233055430-image.png)
 
 明天从这个网页继续学习(https://speedrunethereum.com/)
+值得注意的是：尽量做到网络ip不变，干净（maybe可以这样说）
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
