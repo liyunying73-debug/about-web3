@@ -1,12 +1,5 @@
----
-timezone: UTC+8
----
-
 # liyunying73-debug
 
-**GitHub ID:** liyunying73-debug
-
-**Telegram:** 
 
 ## Self-introduction
 
@@ -31,6 +24,6 @@ linette，大三金融科技专业，希望能了解到web3的知识，拓展自
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/liyunying73-debug/images/2026-01-12-1768233055430-image.png)
 
-希望明天做到继续阅读Web3实习手册，然后在技术上攻破攻防问题。
+明天从这个网页继续学习(https://speedrunethereum.com/)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
